@@ -1,0 +1,1 @@
+This is my first time learning Next.js. I am following the beginner tutorial on the nextjs website, found at https://nextjs.org/learn/dashboard-app.
